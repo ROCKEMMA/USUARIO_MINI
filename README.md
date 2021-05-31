@@ -1,7 +1,7 @@
 # USUARIO_MINI
 vista: https://rockemma.github.io/USUARIO_MINI/.
 Vista cuadricular pequeña de los usuarios con la siguiente información:
-Corazón y número de likes
+<h1>Corazón y número de likes</h2>
 ID del usuario
 Rol del usuario (programado, diseñador)
 Numero de diseños
